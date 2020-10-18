@@ -1,0 +1,674 @@
+@media(max-width:1399px){
+header .navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+    font-size: 17px;
+}
+header .content p {
+    font-size: 17px;
+}
+.features-section p {
+    font-size: 16px;
+}
+.device-section .content p {
+    font-size: 17px;
+}
+.device-section .content ul li {
+    font-size: 17px;
+    margin: 8px 0;
+}
+.super-section .content p {
+    font-size: 17px;
+}
+.plans-section p {
+    font-size: 20px;
+}
+.plans-section ul li span {
+    font-size: 15px;
+}
+.theme-section ul li a.btn {
+    font-size: 13px;
+}
+.business-section .content-two ul li h3 {
+    font-size: 30px;
+    padding: 22px 0;
+}
+.business-section .content-two ul li h1 {
+    font-size: 55px;
+}
+.business-section .content-two ul li h4 {
+    font-size: 18px;
+    padding-bottom: 35px;
+}
+.business-section .content-two ul p {
+    font-size: 16px;
+    padding: 25px 0;
+}
+.btn-check:focus+.btn-warning, .btn-warning:focus {
+    color: #000;
+    background-color: #ffcb2d;
+    border-color: #ffc721;
+    box-shadow: 0 0 0 0.0rem rgb(217 164 0);
+}
+.business-section .content-two ul li a.btn {
+    font-size: 13px;
+    padding: 11px 28px;
+}
+.contact-section .container ul li {
+    font-size: 16px;
+}
+.map-section form button {
+    font-size: 13px;
+    padding: 10px 22px;
+}
+footer .container p {
+    font-size: 16px;
+}
+}
+@media(max-width:1199px){
+header .content h5 {
+    font-size: 12px;
+}	
+header .content h1 {
+    font-size: 40px;
+}
+header .content p {
+    font-size: 16px;
+}
+header .content ul li a.btn {
+    font-size: 12px;
+    padding: 9px 12px;
+}
+.features-section {
+    padding: 40px 0;
+}
+.features-section .content h5 {
+    font-size: 13px;
+}
+.features-section .content h1 {
+    font-size: 34px;
+    margin: 8px 0 18px;
+}
+.features-section i {
+    font-size: 25px;
+    padding: 18px 18px;
+}
+.features-section .content .line {
+    margin-bottom: 60px;
+}
+.features-section p {
+    font-size: 15px;
+}
+.device-section .content h5 {
+    font-size: 12px;
+}
+.device-section .content h1 {
+    font-size: 34px;
+}
+.device-section .content p {
+    font-size: 16px;
+}
+.device-section .content ul li i {
+    font-size: 18px;
+}
+.device-section .content ul li i {
+    font-size: 18px;
+}
+.super-section .content h5 {
+    font-size: 12px;
+}
+.super-section .content h1 {
+    font-size: 34px;
+}
+.super-section .content p {
+    font-size: 16px;
+}
+.plans-section .content h5 {
+    font-size: 13px;
+}
+.plans-section .content h1 {
+    font-size: 34px;
+}
+.plans-section p {
+    font-size: 18px;
+}
+.plans-section ul li p {
+    font-size: 15px;
+}
+.plans-section ul li span {
+    font-size: 13px;
+}
+.theme-section h1 {
+    font-size: 26px;
+}
+.theme-section ul li a.btn {
+    font-size: 11px;
+}
+
+.business-section .content h5 {
+    font-size: 13px;
+}
+.business-section .content h1 {
+    font-size: 34px;
+}
+.business-section .content-two ul li h3 {
+    font-size: 25px;
+    padding: 20px 0;
+}
+.business-section .content-two ul li h1 {
+    font-size: 50px;
+}
+.business-section .content-two ul li h4 {
+    font-size: 16px;
+    padding-bottom: 35px;
+}
+.business-section .content-two ul p {
+    font-size: 15px;
+    padding: 20px 0;
+}
+.business-section .content-two ul li a.btn {
+    font-size: 12px;
+    padding: 10px 25px;
+    margin-bottom: 15px;
+}
+.contact-section .container .content h5 {
+    font-size: 13px;
+}
+.contact-section .container .content h1 {
+    font-size: 34px;
+} 
+.contact-section .container i {
+    font-size: 35px;
+}
+.contact-section .container ul li {
+    font-size: 15px;
+}
+.form-control {
+    font-size: 13px;
+}
+.map-section form button {
+    font-size: 12px;
+    padding: 10px 18px;
+    margin-top: 20px;
+}
+.map-section form {
+    top: -85%;
+}
+.contact-section .container ul {
+    list-style: none;
+    margin-bottom: 435px;
+}
+footer .container ul li i {
+    font-size: 22px;
+    margin: 14px 0 5px;
+}
+footer .container p {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+}
+@media(max-width:991px){
+.navbar-toggler {
+    padding: 2px 6px;
+}
+.navbar-toggler span {
+    width: 30px;
+    margin: 7px 0;
+}
+.navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+}	
+header .navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+    font-size: 16px;
+    padding: 13px 10px;
+}
+header .content h1 {
+    font-size: 26px;
+}
+header .content h5 {
+    font-size: 11px;
+}
+header .content p {
+    font-size: 14px;
+}
+header .content ul li a.btn {
+    font-size: 10px;
+    padding: 8px 10px;
+}
+.features-section {
+    padding: 35px 0;
+}
+.features-section .content h5 {
+    font-size: 12px;
+}
+.features-section .content h1 {
+    font-size: 30px;
+    margin: 8px 0 14px;
+}
+.features-section .content .line {
+    margin-bottom: 50px;
+}
+.features-section i {
+    font-size: 20px;
+    padding: 16px 17px;
+    border: 1px solid #e0e0e0;
+}
+.features-section h3 {
+    font-size: 22px;
+    margin-top: 32px;
+}
+.features-section p {
+    font-size: 13px;
+}
+.device-section .content {
+    margin-top: 30px;
+}
+.device-section .content h5 {
+    font-size: 11px;
+}
+.device-section .content h1 {
+    font-size: 28px;
+    margin: 10px 0 20px;
+}
+.device-section .content .line {
+    margin-bottom: 20px;
+}
+.device-section .content p {
+    font-size: 14px;
+}
+.device-section .content ul li {
+    font-size: 14px;
+    margin: 8px 0;
+}
+.device-section .content ul li i {
+    font-size: 14px;
+}
+.super-section .content h5 {
+    font-size: 11px;
+}
+.super-section .content h1 {
+    font-size: 28px;
+    margin: 10px 0 20px;
+}
+.super-section .content .line {
+    margin-bottom: 20px;
+}
+.super-section .content p {
+    font-size: 14px;
+}
+.plans-section .content h5 {
+    font-size: 11px;
+    padding-top: 45px;
+}
+.plans-section .content h1 {
+    font-size: 28px;
+    margin: 10px 0 20px;
+}
+.plans-section .content .line {
+    margin-bottom: 50px;
+}
+.plans-section p {
+    font-size: 15px;
+}
+.plans-section ul li p {
+    font-size: 14px;
+}
+.plans-section ul li span {
+    font-size: 12px;
+}
+.theme-section h1 {
+    font-size: 21px;
+}
+.theme-section ul li a.btn {
+    font-size: 10px;
+    padding: 10px 10px;
+}
+.business-section .content-two {
+    text-align: center;
+    border: 1px solid #e0e0e0;
+    margin-bottom: 25px;
+}
+.business-section .content h5 {
+    font-size: 11px;
+    padding-top: 40px;
+}
+.business-section .content h1 {
+    font-size: 28px;
+    margin: 10px 0 20px;
+}
+.business-section .content .line {
+    margin-bottom: 50px;
+}
+.business-section .content-two ul li h3 {
+    font-size: 23px;
+    padding: 18px 0;
+}
+.business-section .content-two ul li h1 {
+    font-size: 45px;
+}
+.business-section .content-two ul li h4 {
+    font-size: 14px;
+    padding-bottom: 35px;
+}
+.business-section .content-two ul p {
+    font-size: 16px;
+}
+.contact-section .container .content h5 {
+    font-size: 11px;
+    padding-top: 40px;
+}
+.contact-section .container .content h1 {
+    font-size: 28px;
+    margin: 10px 0 20px;
+}
+.contact-section .container .content .line {
+    width: 40px;
+    margin-bottom: 50px;
+}
+.contact-section .container i {
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+.contact-section .container ul li {
+    font-size: 12px;
+}
+.map-section form {
+    top: -85%;
+    padding: 40px;
+}
+.map-section form button {
+    font-size: 10px;
+    padding: 9px 16px;
+}
+footer .container ul li i {
+    font-size: 18px;
+    margin: 8px 0 2px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+}
+footer .container p {
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+}
+@media(max-width:767px){
+header .content h5 {
+    font-size: 10px;
+    margin-bottom: 3px;
+}	
+header .content h1 {
+    font-size: 22px;
+}
+header .content p {
+    font-size: 11px;
+}
+header .content ul li a.btn {
+    font-size: 9px;
+    padding: 7px 8px;
+}
+.features-section {
+    padding-bottom: 10px;
+}
+.features-section .content h1 {
+    font-size: 24px;
+    margin: 6px 0 14px;
+}
+.features-section p {
+    font-size: 13px;
+    padding-bottom: 25px;
+}
+.device-section {
+    padding-top: 0;
+}
+.device-section .content {
+    margin-top: 16px;
+}
+.device-section .content h5 {
+    font-size: 10px;
+}
+.device-section .content h1 {
+    font-size: 22px;
+    margin: 6px 0 10px;
+}
+.device-section .content .line {
+    margin-bottom: 10px;
+    width: 40px;
+}
+.device-section .content p {
+    font-size: 13px;
+    line-height: 1.3;
+}
+.device-section .content ul li i {
+    font-size: 12px;
+}
+.device-section .content ul li {
+    font-size: 12px;
+    margin: 2px 0;
+}
+.super-section {
+    padding-top: 25px;
+    padding: 30px 0;
+}
+.super-section .content h5 {
+    font-size: 10px;
+}
+.super-section .content h1 {
+    font-size: 22px;
+    margin: 5px 0 15px;
+}
+.super-section .content .line {
+    margin-bottom: 20px;
+    width: 40px;
+}
+.super-section .content p {
+    font-size: 13px;
+}
+.plans-section .content h5 {
+    font-size: 10px;
+    padding-top: 35px;
+}
+.plans-section .content h1 {
+    font-size: 22px;
+    margin: 5px 0 18px;
+}
+.plans-section .content .line {
+    margin-bottom: 35px;
+}
+.plans-section p {
+    font-size: 14px;
+}
+.plans-section {
+    padding-bottom: 30px;
+}
+.plans-section .cercle {
+    display: none;
+}
+.theme-section {
+    padding: 45px 0;
+}
+.theme-section h1 {
+    font-size: 18px;
+}
+.theme-section ul li {
+    padding-right: 10px;
+}
+.theme-section ul li a.btn {
+    font-size: 8px;
+    padding: 7px 4px;
+    border-radius: 0;
+}
+.business-section .content h5 {
+    font-size: 10px;
+    padding-top: 35px;
+}
+.business-section .content h1 {
+    font-size: 25px;
+    margin: 5px 0 15px;
+}
+.business-section .content .line {
+    margin-bottom: 40px;
+}
+.business-section .content-two ul li h3 {
+    font-size: 20px;
+    padding: 15px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+.business-section .content-two ul li h4 {
+    font-size: 13px;
+    padding-bottom: 25px;
+}
+.business-section .content-two ul p {
+    font-size: 14px;
+    padding: 10px 0;
+}
+.business-section .content-two ul li a.btn {
+    font-size: 11px;
+    padding: 9px 20px;
+    margin-bottom: 8px;
+}
+.business-section {
+    padding-bottom: 0;
+}
+.contact-section .container .content h5 {
+    font-size: 10px;
+    padding-top: 30px;
+}
+.contact-section .container .content h1 {
+    font-size: 25px;
+    margin: 2px 0 15px;
+}
+.contact-section .container .content .line {
+    width: 35px;
+    margin-bottom: 40px;
+}
+.map-section form input {
+    width: 340px;
+}
+.map-section form textarea {
+    width: 340px;
+    margin: auto;
+    background: #000;
+}
+.map-section form {
+    top: -80%;
+    padding: 25px;
+}	
+}
+@media(max-width:575px){
+.navbar-nav {
+    flex-direction: column;
+}	
+header .navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+    font-size: 14px;
+    padding: 6px 20px;
+}
+header .content{
+	padding-bottom: 30px;
+}
+header .content h1 {
+    font-size: 18px;
+}
+header .content h5 {
+    font-size: 10px;
+    margin-top: 10px;
+}
+header .content p {
+    font-size: 12px;
+}
+header img{
+	display: none;
+}
+.features-section {
+    padding-top: 25px;
+}
+.features-section .content h5 {
+    font-size: 11px;
+}
+.features-section .content h1 {
+    font-size: 20px;
+    margin: 6px 0 14px;
+}
+.features-section .content .line {
+    margin-bottom: 45px;
+    width: 40px;
+    height: 2px;
+}
+.features-section h3 {
+    font-size: 22px;
+    margin-top: 25px;
+}
+.features-section i {
+    font-size: 18px;
+    padding: 14px 15px;
+}
+.device-section .content {
+    margin-top: 16px;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+.super-section .content{
+	margin-left: 30px;
+}
+.plans-section .content h5 {
+    padding-top: 25px;
+}
+.plans-section .content h1 {
+    margin: 5px 0 15px;
+}
+.plans-section .content .line {
+    margin-bottom: 25px;
+    width: 40px;
+}
+.plans-section p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.plans-section ul{
+	margin-bottom: 10px;
+}
+.plans-section ul li p {
+    font-size: 13px;
+}
+.plans-section ul li span {
+    font-size: 11px;
+}
+.theme-section {
+    padding: 20px 0;
+}
+.theme-section h1 {
+    font-size: 16px;
+}
+.theme-section ul li a.btn {
+    font-size: 10px;
+}
+.business-section .content .line {
+    margin-bottom: 30px;
+    width: 40px;
+}
+.contact-section .container i {
+    margin-left: 0;
+}
+.contact-section .container ul {
+    list-style: none;
+    margin-bottom: 15px;
+    padding-left: 0;
+}
+.map-section .container{
+    padding: 0;
+}
+.map-section form {
+    display: none;
+}
+footer .container ul li i {
+    font-size: 16px;
+    margin: 6px 0 2px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+footer .container p {
+    font-size: 11px;
+    margin-bottom: 12px;
+}
+}
+@media(max-width:320px){}
